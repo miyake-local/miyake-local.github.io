@@ -2,7 +2,7 @@
 title: 三宅ビジョン発表会に参加しました
 date: 2021-03-07T11:35:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: default
 permalink: /note/town-vision-meeting/
 header:
   og_image:  /assets/images/2021/town-vision-meeting.jpg
